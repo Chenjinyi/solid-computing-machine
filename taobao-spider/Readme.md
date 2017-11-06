@@ -38,3 +38,11 @@ php -f Spider.php>test 维他柠檬茶
 ##### 更新记录
 
 Beta 0.0.1 基础功能完成
+
+#### 更多爬虫
+
+[Bcy-Spider 半次元爬虫](https://github.com/Chenjinyi/bcy-spider)
+
+[TaoBao-Spider 淘宝爬虫](https://github.com/Chenjinyi/solid-computing-machine/tree/master/taobao-spider)
+
+[Huaban-Spider 花瓣爬虫](https://github.com/Chenjinyi/solid-computing-machine/tree/master/huaban-spider)
